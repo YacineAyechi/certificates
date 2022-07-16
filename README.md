@@ -2,7 +2,7 @@
 
 ## [Scrimba Front End Career Path](https://scrimba.com/certificate/um4Kbws9/gfrontend)
 
-![alt text](https://github.com/martinlrmr/certificates/blob/main/img/ScrimbaCert.png)
+![alt text](https://github.com/YacineAyechi/certificates/blob/master/img/Scrimba.jpg)
 
 The Career Path aims to teach you everything you need to know to be hired as a Frontend developer. It includes HTML, CSS, JavaScript, React, UI Design, career advice and contains over 80 hours of tutorials, hundreds of coding challenges, and dozens of real-world projects.
 
